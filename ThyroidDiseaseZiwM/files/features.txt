@@ -1,0 +1,18 @@
+age
+sex
+on thyroxine
+query on thyroxine
+on antithyroid medication
+sick
+pregnant
+thyroid surgery
+I131 treatment
+query hypothyroid
+query hyperthyroid
+lithium
+goitre
+tumor
+hypopituitary
+psych
+result
+
