@@ -1,5 +1,14 @@
 on_thyroxine,query_on_thyroxine,on_antithyroid_medication,thyroid_surgery,query_hypothyroid,query_hyperthyroid,pregnant,sick,tumor,lithium,goitre,TSH_measured,T3_measured,TT4_measured,T4U_measured,FTI_measured,age,sex,TSH,T3,TT4,T4U,FTI,classes
-0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,80,1,1.4,0.8,105.0,0.88,120.0,1
+0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,80,1,1.# -1 - ?
+# 0 - women
+# 1 - men
+
+# -1 - other
+# 0 - SVHC
+# 1  - SVI
+# 2  - STMW
+# 3  - SVHD
+# 4  - WEST4,0.8,105.0,0.88,120.0,1
 0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,74,0,0.0,0.7,98.0,0.81,121.0,1
 0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,32,0,1.4,1.1,121.0,1.11,109.0,1
 0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,42,0,2.3,1.1,93.0,0.73,127.0,1

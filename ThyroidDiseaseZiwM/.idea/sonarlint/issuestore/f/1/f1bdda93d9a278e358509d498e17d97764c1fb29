@@ -1,0 +1,20 @@
+
+vpython:S117/"SRename this parameter "Y_train" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹½âİúÿÿÿÿ8Õøé«.
+tpython:S117H"VRename this parameter "X_features" to match the regular expression ^[_a-z][a-z0-9_]*$.(àÉÔ8Õøé«.
+upython:S117O"WRename this local variable "X_test" to match the regular expression ^[_a-z][a-z0-9_]*$.(ßá’¯8Õøé«.
+ƒpython:S1177"eRename this local variable "X_test_best_features" to match the regular expression ^[_a-z][a-z0-9_]*$.(óÚóÖ8Õøé«.
+ypython:S117%"VRename this parameter "X_features" to match the regular expression ^[_a-z][a-z0-9_]*$.(æ¥Óüÿÿÿÿ8Õøé«.
+tpython:S117<"VRename this parameter "X_features" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï±ğÂ8Õøé«.
+€python:S117S"]Rename this local variable "X_train_best" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñæÔşûÿÿÿÿ8Õøé«.
+upython:S117<"WRename this parameter "Y_diagnosis" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï±ğÂ8Õøé«.
+vpython:S117/"SRename this parameter "X_train" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹½âİúÿÿÿÿ8Õøé«.
+upython:S117H"WRename this parameter "Y_diagnosis" to match the regular expression ^[_a-z][a-z0-9_]*$.(àÉÔ8Õøé«.
+~python:S117*"`Rename this local variable "X_best_features" to match the regular expression ^[_a-z][a-z0-9_]*$.(©ñÅ8Õøé«.
+zpython:S117Q"WRename this local variable "Y_test" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñëÇÇúÿÿÿÿ8Õøé«.
+{python:S117N"XRename this local variable "X_train" to match the regular expression ^[_a-z][a-z0-9_]*$.(†­Û“úÿÿÿÿ8Õøé«.
+python:S117S"\Rename this local variable "X_test_best" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñæÔşûÿÿÿÿ8Õøé«.
+vpython:S117P"XRename this local variable "Y_train" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç¬°»8Õøé«.
+‰python:S1175"fRename this local variable "X_train_best_features" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡¾¥„üÿÿÿÿ8Õøé«.
+Bpython:S125"Remove this commented out code.(ª¥‰ßÿÿÿÿÿ8Õøé«.
+zpython:S117%"WRename this parameter "Y_diagnosis" to match the regular expression ^[_a-z][a-z0-9_]*$.(æ¥Óüÿÿÿÿ8Õøé«.
+upython:S117/"RRename this parameter "X_test" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹½âİúÿÿÿÿ8Õøé«.
